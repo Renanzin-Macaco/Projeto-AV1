@@ -1,6 +1,6 @@
-# 🛍️ Vesteza — Catálogo de Produtos
+# 🛍️ Urbanza — Catálogo de Produtos
 
-**Vesteza: Roupas e Acessórios**
+**Urbanza: Seu Estilo, Sua Marca**
 
 Projeto desenvolvido em React com o objetivo de criar um catálogo de produtos com carrinho de compras, permitindo adicionar produtos, controlar suas quantidades, remover itens e calcular o valor total da compra.
 
