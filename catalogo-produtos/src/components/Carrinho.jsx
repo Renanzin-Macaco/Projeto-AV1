@@ -6,7 +6,7 @@ const Carrinho = ({ carrinho, aumentarQuantidade, diminuirQuantidade, removerDoC
   return (
     <div className="carrinho">
       {carrinho.length === 0 ? (
-        <p>O carrinho está vazio.</p>
+        <center><h1>O carrinho está vazio.</h1></center>
       ) : (
         <>
           {carrinho.map((item) => (
